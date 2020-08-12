@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+}
+.background {
+	height: 130px;
+	background: #007bffd1;
+	color: white;
+	font-size: 17px;
+}
